@@ -1,0 +1,19 @@
+﻿Person,Type,Non churn recall,Churn recall,Non churn f1 ,Churn f1
+Mitch,Logistic regression,0.92,0.53,0.88,0.6
+Mitch,KNN - k=42,0.88,0.57,0.87,0.6
+Skyler,Logistic regression,0.44,0.97,0.61,0.55
+Skyler,Decision tree - depth = 2,0.82,0.66,0.85,0.61
+Skyler,Decision tree - depth = 4,0.91,0.47,0.87,0.55
+Skyler,Decision tree - depth = 3,0.94,0.93,0.87,0.5
+Skyler,Decision tree - depth = 5,0.86,0.64,0.86,0.63
+Bernard,Logistic regression #1,0.98,0.01,0.84,0.02
+Bernard,Logistic regression #2,1,0,0.85,0
+Bernard,Logistic regression #3,0.02,0.88,0.03,0.38
+Bernard,Logistic regression #4,1,0,0.85,0
+Bernard,Logistic regression #5,0.34,0.16,0.41,0.11
+Bernard,Logistic regression #6,0.34,0.16,0.41,0.11
+Bernard,Logistic regression #7,0.98,0.01,0.84,0.02
+Bernard,Logistic regression #8,0.24,0.28,0.32,0.17
+Abhishek,Logistic regression,0.67,0.16,0.68,0.15
+Will,Logistic regression #1,0.9,0.59,0.88,0.63
+Will,Logistic regression #2,0.91,0.54,0.88,0.61
